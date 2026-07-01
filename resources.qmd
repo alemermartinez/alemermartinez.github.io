@@ -2,4 +2,15 @@
 title: "Resources"
 ---
 
-Under construction.
+# Resources
+
+This page contains freely available teaching materials.
+
+## Books
+
+- 📘 **Fundamentos de Técnicas Cuantitativas** ([PDF](files/Libro-FTC-SegundaEdicion.pdf))
+
+## Lecture Notes
+
+- 📄 Lecture Notes on ...
+- 📄 Lecture Notes on ...
