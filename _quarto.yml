@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Alejandra Martínez"
+
+  navbar:
+    pinned: true
+    left:
+      - research.qmd
+      - teaching.qmd
+      - software.qmd
+      - contact.qmd
+
+  page-footer:
+    left: "© 2026 Alejandra Martínez"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: flatly
+    css: styles.scss
+    toc: false

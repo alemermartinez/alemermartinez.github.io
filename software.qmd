@@ -1,0 +1,9 @@
+---
+title: "Software"
+---
+
+I develop open-source software in R related to robust statistics and semiparametric regression models.
+
+- **[rplam-vs](https://github.com/alemermartinez/rplam-vs)**: An R package for robust estimation and simultaneous variable selection in partially linear additive models.
+
+- **[rmargint](https://github.com/alemermartinez/rmargint)**: An R package with the classical and robust marginal integration procedures for estimating the additive components in an additive model.

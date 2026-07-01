@@ -1,0 +1,5 @@
+---
+title: "Research"
+---
+
+My research interests include robust estimation, semiparametric regression models and variable selection.

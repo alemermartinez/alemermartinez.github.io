@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+# Alejandra Martínez
+
+Assistant Professor  
+Department of Basic Sciences  
+National University of Luján
+
+My research focuses on **robust statistics**, **semiparametric models** and **variable selection**.
+
+Welcome to my academic website. Here you can find information about my research, teaching, software, and other academic activities.
