@@ -32,7 +32,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Under construction."
+    "text": "I teach undergraduate and graduate courses in probability, statistics, and mathematics at the National University of Luján."
   },
   {
     "objectID": "contact.html",
@@ -47,5 +47,12 @@
     "title": "Contact",
     "section": "",
     "text": "Email: ammartinez@conicet.gov.ar\nGitHub: https://github.com/alemermartinez\nORCID: 0000-0002-1893-2039\nGoogle Scholar: (más adelante)"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Under construction."
   }
 ]

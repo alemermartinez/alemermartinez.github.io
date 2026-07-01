@@ -9,6 +9,7 @@ website:
     left:
       - research.qmd
       - teaching.qmd
+      - resources.qmd
       - software.qmd
       - contact.qmd
 
