@@ -1,10 +1,16 @@
 ---
 title: "Resources"
+bibliography: publications.bib
 ---
 
-# Resources
+# Research
 
-This page contains freely available teaching materials.
+My research focuses on robust statistics, semiparametric models, variable selection, and statistical learning.
+
+## Publications
+
+::: {#refs}
+:::
 
 ## Books
 
