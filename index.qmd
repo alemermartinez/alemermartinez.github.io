@@ -22,10 +22,10 @@ Welcome to my academic website. Here you will find information about my research
 
 ::: {.social-links}
 
-[GitHub](https://github.com/alemermartinez)
+[GitHub](https://github.com/alemermartinez){.social-button}
 
-[ORCID](https://orcid.org/0000-0002-1893-2039)
+[ORCID](https://orcid.org/0000-0002-1893-2039){.social-button}
 
-[Email](mailto:ammartinez@conicet.gov.ar)
+[Email](mailto:ammartinez@conicet.gov.ar){.social-button}
 
 :::
