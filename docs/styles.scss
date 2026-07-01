@@ -25,3 +25,15 @@ h2 {
 .navbar {
   font-size: 1rem;
 }
+
+.social-links {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.social-links a {
+  text-decoration: none;
+  font-weight: 600;
+}

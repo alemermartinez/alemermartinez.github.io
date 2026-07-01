@@ -7,13 +7,25 @@ title: ""
 # Alejandra Martínez
 
 Assistant Professor
-
 Department of Basic Sciences
-
 National University of Luján
+
+Researcher at CONICET
+
+Argentina
 
 :::
 
-My research interests include **robust statistics**, **semiparametric models**, **variable selection**, and **statistical learning**.
+My research focuses on **robust statistics**, **semiparametric models**, **variable selection**, and **statistical learning**.
 
 Welcome to my academic website. Here you will find information about my research, teaching, software, and freely available educational resources.
+
+::: {.social-links}
+
+[GitHub](https://github.com/alemermartinez)
+
+[ORCID](https://orcid.org/0000-0002-1893-2039)
+
+[Email](mailto:ammartinez@conicet.gov.ar)
+
+:::
