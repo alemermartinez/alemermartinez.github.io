@@ -2,4 +2,72 @@
 title: "Research"
 ---
 
-My research interests include robust estimation, semiparametric regression models and variable selection.
+My research focuses on **robust statistics**, **semiparametric regression models**, **variable selection**, and **mathematical and statistical learning**. My work combines methodological developments with computational implementations in R, with applications to robust and nonparametric regression.
+
+## Journal Articles
+
+- **2024.** Boente, G. and Martínez, A. M.  
+  *Robust variable selection for partially linear additive models*.  
+  **Statistics and Computing**, 34, 201.  
+  DOI: https://doi.org/10.1007/s11222-024-10520-7
+
+- **2023.** Boente, G. and Martínez, A. M.  
+  *A robust spline approach in partially linear additive models*.  
+  **Computational Statistics & Data Analysis**, 178, 107611.  
+  DOI: https://doi.org/10.1016/j.csda.2022.107611
+
+- **2021.** Martínez, A. M. and Salibián-Barrera, M.  
+  *RBF: An R package to compute a robust backfitting estimator for additive models*.  
+  **Journal of Open Source Software**, 6(60), 2992.  
+  DOI: https://doi.org/10.21105/joss.02992
+
+- **2017.** Boente, G., Martínez, A. M. and Salibián-Barrera, M.  
+  *Robust estimators for additive models using backfitting*.  
+  **Journal of Nonparametric Statistics**, 29, 744–767.
+
+- **2017.** Boente, G. and Martínez, A. M.  
+  *Marginal integration M-estimators for additive models*.  
+  **TEST**, 26, 231–260.
+
+- **2016.** Boente, G. and Martínez, A. M.  
+  *Estimating additive models with missing responses*.  
+  **Communications in Statistics: Theory and Methods**, 45, 413–429.
+
+## Book Chapters
+
+- **2025.** Martínez, A. M.  
+  *Addressing Robustness and Sparsity in Partially Linear Additive Models*.  
+  In **New Trends in Functional Statistics and Related Fields**. Springer. Proceedings of the International Workshop on Functional and Operatorial Statistics (IWFOS). Chapter 44, pp. 365–374.  
+  DOI: https://doi.org/10.1007/978-3-031-92383-8
+
+## Conference Proceedings
+
+- **2025.** Duna, C. and Martínez, A. M.  
+  *Estudio de los errores en la resolución de inecuaciones en alumnos ingresantes al Profesorado de Matemática*.  
+  In *Actas de las VIII Jornadas de Educación Matemática y V Jornadas de Investigación en Educación Matemática*. Universidad Nacional del Litoral.
+
+- **2018.** Martínez, A. M. and Murrone, N.  
+  *Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes*.  
+  In *Anales de LatinR 2018*. 47 JAIIO.
+
+- **2014.** Boente, G., Martínez, A. M. and Salibián-Barrera, M.  
+  *Robust estimators in additive models with missing responses*.  
+  In *II ISNPS Book of Abstracts*. Universidad Carlos III de Madrid and the International Society for Nonparametric Statistics.
+
+## Preprints
+
+- **2025.** Martínez, A. M.  
+  *A robust estimation and variable selection approach for sparse partially linear additive models*.  
+  arXiv: http://arxiv.org/abs/2502.13126
+
+- **2024.** Boente, G. and Martínez, A. M.  
+  *Robust variable selection for partially linear additive models*.  
+  arXiv: https://arxiv.org/abs/2401.10869
+
+- **2021.** Boente, G. and Martínez, A. M.  
+  *A robust spline approach in partially linear additive models*.  
+  arXiv: https://arxiv.org/abs/2107.12987
+
+- **2015.** Boente, G. and Martínez, A. M.  
+  *Marginal integration M-estimators for additive models*.  
+  arXiv: https://arxiv.org/pdf/1509.04334
