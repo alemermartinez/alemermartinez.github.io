@@ -20,27 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -86,35 +66,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.scss">
 </head>
@@ -195,29 +146,63 @@ window.Quarto = {
 <p>My research focuses on robust statistics, semiparametric models, variable selection, and statistical learning.</p>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-2016:boente:martinez" class="csl-entry" role="listitem">
-Boente, Graciela, and Alejandra Martínez. 2016. <span>“Estimating Additive Models with Missing Responses.”</span> <em>Communications in Statistics: Theory and Methods</em> 15: 413–29.
-</div>
-<div id="ref-2017:boente:martinez" class="csl-entry" role="listitem">
-———. 2017. <span>“Marginal Integration <span><span class="math inline">\(M-\)</span></span>Estimators for Additive Models.”</span> <em>Test</em> 26: 231–60.
-</div>
-<div id="ref-2023:boente:martinez" class="csl-entry" role="listitem">
-———. 2023. <span>“A Robust Spline Approach in Partially Linear Additive Models.”</span> <em>Computational Statistics and Data Analysis</em> 178: 107611. <a href="https://doi.org/10.1016/j.csda.2022.107611">https://doi.org/10.1016/j.csda.2022.107611</a>.
-</div>
-<div id="ref-2024:boente:martinez" class="csl-entry" role="listitem">
-———. 2024. <span>“Robust Variable Selection for Partially Linear Additive Models.”</span> <em>Statistics and Computing</em> 34: 201. <a href="https://doi.org/10.1007/s11222-024-10520-7">https://doi.org/10.1007/s11222-024-10520-7</a>.
-</div>
-<div id="ref-2017:boente:martinez:SB" class="csl-entry" role="listitem">
-Boente, Graciela, Alejandra Martínez, and Matias Salibian-Barrera. 2017. <span>“Robust Estimators for Additive Models Using Backfitting.”</span> <em>Journal of Nonparametric Statistics</em> 29: 744–67.
-</div>
-<div id="ref-2025:martinez:arxiv" class="csl-entry" role="listitem">
-Martínez, Alejandra Mercedes. 2025. <span>“A Robust Estimation and Variable Selection Approach for Sparse Partially Linear Additive Models.”</span> <a href="https://arxiv.org/abs/2502.13126">https://arxiv.org/abs/2502.13126</a>.
-</div>
-<div id="ref-2021:martinez:salibian" class="csl-entry" role="listitem">
-Martínez, Alejandra, and Matias Salibian-Barrera. 2021. <span>“<span>RBF</span>: An <span> R</span> Package to Compute a Robust Backfitting Estimator for Additive Models.”</span> <em>Journal of Open Source Software</em> 6: 2992. <a href="https://doi.org/10.21105/joss.02992">https://doi.org/10.21105/joss.02992</a>.
-</div>
-</div>
+<ul>
+<li><ol start="2024" type="1">
+<li>G. Boente y A. Martı́nez. Robust variable selection for partially linear additive models. Statistics and Computing, 34, 201. https://doi.org/10.1007/s11222-024-10520-7.</li>
+</ol></li>
+<li><ol start="2023" type="1">
+<li>G. Boente y A. Martı́nez. A robust spline approach in partially linear additive models. Compu- tational Statistics and Data Analysis, 178, 107611. https://doi.org/10.1016/j.csda.2022.107611.</li>
+</ol></li>
+<li><ol start="2021" type="1">
+<li>Martı́nez, A. M. y Salibian−Barrera, M.”RBF: An R package to compute a robust backfitting estimator for additive models”. Journal of Open Source Software, 6(60), 2992. https://doi.org/10.21105/joss.02992.</li>
+</ol></li>
+<li><ol start="2017" type="1">
+<li>G. Boente, A. Martı́nez y M. Salibian–Barrera. Robust estimators for additive models using backfitting. Journal of Nonparametric Statistics, 29, 744-767.</li>
+</ol></li>
+<li><ol start="2017" type="1">
+<li>G. Boente y A. Martı́nez. Marginal integration M −estimators for additive models. TEST, 26, 231-260.</li>
+</ol></li>
+<li><ol start="2016" type="1">
+<li>G. Boente y A. Martı́nez. Estimating additive models with missing responses. Communications in Statistics: Theory and Methods, 45, 413-429.</li>
+</ol></li>
+</ul>
+</section>
+<section id="chapters" class="level2">
+<h2 class="anchored" data-anchor-id="chapters">Chapters</h2>
+<ul>
+<li><ol start="2025" type="1">
+<li>Martı́nez, A. M. “Addressing Robustenss and Sparsity in Partially Linear Additive Models”. Capítulo del libro: New Trends in Functional Statistics and Related Fields, Springer. Proceedings of The International Workshop on Functional and Operatorial Statistics (IWFOS), Italy. Chapter 44, pp. 365-374. ISBN 978-3-031-92383-8. https://doi.org/10.1007/978-3-031-92383-8.</li>
+</ol></li>
+</ul>
+</section>
+<section id="in-annals" class="level2">
+<h2 class="anchored" data-anchor-id="in-annals">In Annals</h2>
+<ul>
+<li><ol start="2025" type="1">
+<li>C. Duna y A. M. Martı́nez. “Estudio de los errores en la resolución de inecuaciones en alumnos ingresantes al Profesorado de Matemática”. En: Actas de las VIII jornadas de educación matemática y V jornadas de investigación en educación matemática: miradas y desafı́os de la educación matemática en el siglo XXI, 1ra edición especial. Santa Fe: Universidad Nacional del Litoral. ISBN: 978-987-692- 416-0.</li>
+</ol></li>
+<li><p>2018 A. M. Martı́nez y N. Murrone. “Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes”. En: Anales de LatinR 2018, Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. Editado por 47JAIIO. ISBN: 2618-3196</p></li>
+<li><ol start="2014" type="1">
+<li>G. Boente, A. Martı́nez y M. Salibián Barrera. “Robust estimators in additive models with miss- ing responses”. En: II ISNPS (International Society of Non Parametric Statistics) Book of abstracts. Editado por Universidad Carlos III &amp; The International Society for Non-Parametric Statistics. ISBN: 978-84-89315-69-3.</li>
+</ol></li>
+</ul>
+</section>
+<section id="in-arxiv" class="level2">
+<h2 class="anchored" data-anchor-id="in-arxiv">In arXiv</h2>
+<ul>
+<li><ol start="2025" type="1">
+<li>Martı́nez, A. M. “A robust estimation and variable selection approach for sparse partially linear additive models”. http://arxiv.org/abs/2502.13126.</li>
+</ol></li>
+<li><ol start="2024" type="1">
+<li>Boente, G. y Martı́nez, A. M. “Robust variable selection for partially linear additive models”. https://arxiv.org/abs/2401.10869.</li>
+</ol></li>
+<li><ol start="2021" type="1">
+<li>Boente, G. y Martı́nez, A. M. “A robust spline approach in partially linear additive models”. https://arxiv.org/abs/2107.12987.</li>
+</ol></li>
+<li><ol start="2015" type="1">
+<li>Boente, G. y Martı́nez, A. M. “Marginal integration M-estimators for additive models”. https: //arxiv.org/pdf/1509.04334.</li>
+</ol></li>
+</ul>
 </section>
 <section id="published-books" class="level2">
 <h2 class="anchored" data-anchor-id="published-books">Published Books</h2>

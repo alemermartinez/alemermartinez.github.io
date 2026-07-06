@@ -1,7 +1,5 @@
 ---
 title: "Resources"
-bibliography: publications.bib
-nocite: '@*'
 ---
 
 # Research
@@ -10,8 +8,60 @@ My research focuses on robust statistics, semiparametric models, variable select
 
 ## Publications
 
-::: {#refs}
-:::
+- 2024. G. Boente y A. Martı́nez. Robust variable selection for partially linear additive models. Statistics
+and Computing, 34, 201. https://doi.org/10.1007/s11222-024-10520-7.
+
+- 2023. G. Boente y A. Martı́nez. A robust spline approach in partially linear additive models. Compu-
+tational Statistics and Data Analysis, 178, 107611. https://doi.org/10.1016/j.csda.2022.107611.
+
+- 2021. Martı́nez, A. M. y Salibian−Barrera, M."RBF: An R package to compute a robust backfitting estimator for additive models". Journal of Open Source Software, 6(60), 2992. https://doi.org/10.21105/joss.02992.
+
+- 2017. G. Boente, A. Martı́nez y M. Salibian–Barrera. Robust estimators for additive models using
+backfitting. Journal of Nonparametric Statistics, 29, 744-767.
+
+- 2017. G. Boente y A. Martı́nez. Marginal integration M −estimators for additive models. TEST, 26,
+231-260.
+
+- 2016. G. Boente y A. Martı́nez. Estimating additive models with missing responses. Communications
+in Statistics: Theory and Methods, 45, 413-429.
+
+## Chapters
+
+- 2025. Martı́nez, A. M. "Addressing Robustenss and Sparsity in Partially Linear Additive Models". Capítulo del libro: New Trends in Functional Statistics and Related Fields, Springer. Proceedings of
+The International Workshop on Functional and Operatorial Statistics (IWFOS), Italy. Chapter 44, pp.
+365-374. ISBN 978-3-031-92383-8. https://doi.org/10.1007/978-3-031-92383-8.
+
+## In Annals
+
+- 2025. C. Duna y A. M. Martı́nez. "Estudio de los errores en la resolución de inecuaciones en alumnos
+ingresantes al Profesorado de Matemática". En: Actas de las VIII jornadas de educación matemática y
+V jornadas de investigación en educación matemática: miradas y desafı́os de la educación matemática
+en el siglo XXI, 1ra edición especial. Santa Fe: Universidad Nacional del Litoral. ISBN: 978-987-692-
+416-0.
+
+- 2018 A. M. Martı́nez y N. Murrone. "Comparación de propuestas para el análisis de componentes
+principales en matrices con datos faltantes". En: Anales de LatinR 2018, Conferencia Latinoamericana
+sobre Uso de R en Investigación + Desarrollo. Editado por 47JAIIO. ISBN: 2618-3196
+
+- 2014. G. Boente, A. Martı́nez y M. Salibián Barrera. "Robust estimators in additive models with miss-
+ing responses". En: II ISNPS (International Society of Non Parametric Statistics) Book of abstracts.
+Editado por Universidad Carlos III & The International Society for Non-Parametric Statistics. ISBN:
+978-84-89315-69-3.
+
+## In arXiv
+
+- 2025. Martı́nez, A. M. "A robust estimation and variable selection approach for sparse partially linear
+additive models". http://arxiv.org/abs/2502.13126.
+
+- 2024. Boente, G. y Martı́nez, A. M. "Robust variable selection for partially linear additive models".
+https://arxiv.org/abs/2401.10869.
+
+- 2021. Boente, G. y Martı́nez, A. M. "A robust spline approach in partially linear additive models".
+https://arxiv.org/abs/2107.12987.
+
+- 2015. Boente, G. y Martı́nez, A. M. "Marginal integration M-estimators for additive models". https:
+//arxiv.org/pdf/1509.04334.
+
 
 ## Published Books
 
