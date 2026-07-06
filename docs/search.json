@@ -25,7 +25,28 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach undergraduate and graduate courses in probability, statistics, and mathematics at the National University of Luján."
+    "text": "I teach undergraduate and graduate courses in mathematics, probability, and statistics. My teaching interests include mathematical statistics, robust statistics, statistical computing, and quantitative methods."
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Teaching",
+    "section": "Current Teaching",
+    "text": "Current Teaching\n\nNational University of Luján\n\nUndergraduate courses in mathematics and statistics.\n\nUniversity of Buenos Aires\n\nGraduate courses in Mathematical Statistics.\n\nNational University of Hurlingham\nGraduate course in Probability."
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\nI am interested in teaching mathematical statistics, robust statistics, semiparametric and nonparametric methods, statistical computing with R, and quantitative methods for interdisciplinary applications."
+  },
+  {
+    "objectID": "teaching.html#teaching-material",
+    "href": "teaching.html#teaching-material",
+    "title": "Teaching",
+    "section": "Teaching Material",
+    "text": "Teaching Material\nLecture notes and freely available educational resources can be found on the Resources page."
   },
   {
     "objectID": "research.html",

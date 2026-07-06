@@ -2,4 +2,23 @@
 title: "Teaching"
 ---
 
-I teach undergraduate and graduate courses in probability, statistics, and mathematics at the National University of Luján.
+I teach undergraduate and graduate courses in mathematics, probability, and statistics. My teaching interests include mathematical statistics, robust statistics, statistical computing, and quantitative methods.
+
+## Current Teaching
+
+- **National University of Luján**
+  - Undergraduate courses in mathematics and statistics.
+
+- **University of Buenos Aires**
+  - Graduate courses in Mathematical Statistics.
+  
+-   **National University of Hurlingham**
+  - Graduate course in Probability.
+
+## Teaching Interests
+
+I am interested in teaching mathematical statistics, robust statistics, semiparametric and nonparametric methods, statistical computing with R, and quantitative methods for interdisciplinary applications.
+
+## Teaching Material
+
+Lecture notes and freely available educational resources can be found on the **Resources** page.
