@@ -1,0 +1,75 @@
+/* Fuente un poco más agradable */
+
+body {
+  background: #fff8dc;
+}
+
+body {
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+/* Nombre */
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: .3rem;
+}
+
+/* Encabezados */
+
+h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: .25rem;
+}
+
+/* Barra superior */
+
+.navbar {
+  font-size: 1rem;
+}
+
+
+.social-links {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+.social-links a.social-button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #d6d6d6;
+  border-radius: 999px;
+
+  color: #333 !important;
+  text-decoration: none !important;
+
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.social-links a.social-button:hover {
+  background: #f4f4f4;
+  border-color: #999;
+  color: #000 !important;
+}
+
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.hero p {
+  font-size: 1.15rem;
+}
+
+.affiliation {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
