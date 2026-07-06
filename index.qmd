@@ -21,11 +21,15 @@ My research focuses on **robust statistics**, **semiparametric models** and **va
 Welcome to my academic website. Here you will find information about my research, teaching, software, and freely available educational resources.
 
 ::: {.social-links}
+<a class="social-button" href="https://github.com/alemermartinez" target="_blank">
+GitHub
+</a>
 
-[GitHub](https://github.com/alemermartinez){.social-button}
+<a class="social-button" href="https://orcid.org/0000-0002-1893-2039" target="_blank">
+ORCID
+</a>
 
-[ORCID](https://orcid.org/0000-0002-1893-2039){.social-button}
-
-[Email](mailto:ammartinez@conicet.gov.ar){.social-button}
-
+<a class="social-button" href="mailto:ammartinez@conicet.gov.ar">
+Email
+</a>
 :::
