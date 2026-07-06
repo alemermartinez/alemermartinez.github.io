@@ -6,15 +6,24 @@ title: ""
 
 # Alejandra Martínez
 
-Assistant Professor
-Department of Basic Sciences
+<div class="affiliation">
+
+Assistant Professor<br>
+Department of Basic Sciences<br>
 National University of Luján
+
+<br>
 
 Researcher at CONICET
 
+<br>
+
 Argentina
 
+</div>
+
 :::
+
 
 My research focuses on **robust statistics**, **semiparametric models** and **variable selection**.
 
