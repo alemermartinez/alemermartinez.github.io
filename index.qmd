@@ -16,7 +16,7 @@ Argentina
 
 :::
 
-My research focuses on **robust statistics**, **semiparametric models**, **variable selection**, and **statistical learning**.
+My research focuses on **robust statistics**, **semiparametric models** and **variable selection**.
 
 Welcome to my academic website. Here you will find information about my research, teaching, software, and freely available educational resources.
 

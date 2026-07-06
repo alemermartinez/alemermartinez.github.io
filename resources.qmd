@@ -13,13 +13,18 @@ My research focuses on robust statistics, semiparametric models, variable select
 ::: {#refs}
 :::
 
-## Books
+## Published Books
 
 - 📘 **Fundamentos de Técnicas Cuantitativas** ([PDF](files/Libro-FTC-SegundaEdicion.pdf))
 
+How to cite it?
+
+Martínez, A. M. (2019). "Fundamentos de Técnicas Cuantitativas". Ituzaingó. Primera Edición. ISBN 978-987-86-3052-6.
+
+
 ## Lecture Notes
 
-- 📄 Lecture Notes on ...
-- 📄 Lecture Notes on ...
+- 📄 Notas de Análisis Real ([PDF](files/Apunte-AnalisisReal-2024-1.pdf))
+- 📄 Notas de Álgebra
 
 These materials are freely available for educational purposes. Please cite the original source if you use them.
